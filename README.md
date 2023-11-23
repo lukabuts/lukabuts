@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Luka
 - 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and TypeScript
