@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Luka Butskhrikidze</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm passionate about Front-end development, and I'm currently diving into the exciting worlds of React and TypeScript. 🚀</h3>
 <img width="400" align="right" src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif" alt="Animated GIF">
