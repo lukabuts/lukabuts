@@ -10,6 +10,6 @@ Welcome to my GitHub profile! I'm passionate about Front-end development, and I'
 
 ## Tech Stack
 - 💻 HTML | CSS | JavaScript
-- ⚛️ React
+- ⚛️ **React**
 - 🟦 TypeScript
 
