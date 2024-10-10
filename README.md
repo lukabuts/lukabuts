@@ -1,26 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luka Butskhrikidze</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm passionate about Front-end development, and I'm currently diving into the exciting worlds of React and TypeScript. 🚀</h3>
-
-<p align="center">
-  <img width="400" src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif" alt="Animated GIF">
-</p>
-
-<p align="center">
-  <a href="mailto:butskhrikidzeluka0@gmail.com">📫 How to reach me: butskhrikidzeluka0@gmail.com</a>
-</p>
-
-<h3 align="center">🌱 I’m currently learning React and TypeScript</h3>
-<h3 align="center">👯 I’m looking to collaborate on interesting projects</h3>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-</p>
+<h1 align="center">Hello, I'm Luka Butskhrikidze</h1> <h3 align="center">Front-end Developer | Proficient in React, TypeScript, and Tailwind CSS</h3> <p align="center"> <img width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDdvMnplejVnd29tZGQ0dzRyeTBza2h5aTluOXYwdHBqNDh0Zm40bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" alt="Coding Animation"> </p> <p align="center"> <a href="mailto:butskhrikidzeluka0@gmail.com">📩 Reach me: butskhrikidzeluka0@gmail.com</a> </p>
+<h3 align="center">About Me</h3> <p align="center">I’m a front-end developer with a strong passion for creating efficient, user-friendly web applications. With solid experience in React, TypeScript, and Tailwind CSS, I focus on building clean, scalable, and responsive interfaces. I'm always open to learning new technologies and collaborating on innovative projects.</p>
+<h3 align="left">Skills & Technologies:</h3> <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/> </p>
+<h3 align="center">🌟 Always learning, always improving</h3>
