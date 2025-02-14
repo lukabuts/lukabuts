@@ -1,14 +1,14 @@
-<h1 align="center">Hello, I'm Luka Butskhrikidze</h1>
-<h3 align="center">Full-Stack Developer | React, Next.js, Laravel, TypeScript, and Tailwind CSS Enthusiast</h3>
+<h1 align="center">Hey, I'm Luka Butskhrikidze!</h1>
+<h3 align="center">Full-Stack Developer | Passionate about React, Laravel, TypeScript, and Tailwind CSS</h3>
 <p align="center">
   <img width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDdvMnplejVnd29tZGQ0dzRyeTBza2h5aTluOXYwdHBqNDh0Zm40bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" alt="Coding Animation">
 </p>
 <p align="center">
-  <a href="mailto:butskhrikidzeluka0@gmail.com">📩 Reach me: butskhrikidzeluka0@gmail.com</a>
+  <a href="mailto:butskhrikidzeluka0@gmail.com">📩 Feel free to reach out: butskhrikidzeluka0@gmail.com</a>
 </p>
 
 <h3 align="center">About Me</h3>
-<p align="center">I’m a full-stack developer with a love for building efficient, user-friendly web applications. With experience in React, Next.js, Laravel, TypeScript, Tailwind CSS, and more, I focus on creating clean, scalable, and responsive designs. I’m passionate about learning new technologies and collaborating on exciting projects.</p>
+<p align="center">I’m a full-stack developer with a strong passion for building web applications that are both efficient and user-friendly. I love working with technologies like React, Next.js, Laravel, TypeScript, and Tailwind CSS to create beautiful, scalable, and responsive designs. I'm always excited to learn new things and collaborate on meaningful projects!</p>
 
 <h3 align="left">Skills & Technologies:</h3>
 <p align="left">
@@ -24,4 +24,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<h3 align="center">🌟 Always learning, always improving</h3>
+<h3 align="center">🌟 I’m all about learning and growing – one project at a time!</h3>
